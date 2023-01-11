@@ -4,7 +4,7 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-9a731b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=touma0dev&theme=dark&show_icons=true)
-//![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=touma0dev&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que eu uso no meu dia
 

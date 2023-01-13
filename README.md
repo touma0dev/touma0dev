@@ -25,6 +25,6 @@
   <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </div><br/>
 
-Desenvolvedor front end, em busca de se tornar um dev full stack, em design web .
+Desenvolvedor front end, em busca de se tornar um dev full stack, em design web .<br>
   Tecnologias que conheço , CCS3 - HTML5 - JAVASCRIPT -ADOBE PHTOSHOP-
 

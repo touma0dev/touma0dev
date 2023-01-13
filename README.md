@@ -7,7 +7,7 @@
 
 ## Hello ! Im Lucas 🖐️
 ![ GitHub stats]( https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=touma0dev&theme=dark&show_icons=true)<br>
-
+## <h1> About Me</h1>
 <strong style='font-size:20px;'>Front end developer, looking to become a full stack dev, in web design.</stron>
 
 

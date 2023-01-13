@@ -26,5 +26,5 @@
 </div><br/>
 
 Desenvolvedor front end, em busca de se tornar um dev full stack, em design web .<br>
-  Tecnologias que conheço , CCS3 - HTML5 - JAVASCRIPT -ADOBE PHTOSHOP-
+
 

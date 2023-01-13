@@ -15,9 +15,9 @@
 
 ### Languages and Tools:
 [![Sass]( https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]( https://github.com/touma0dev/new-technlogy-learned-sass-/tree/main/Fake%20Project%20Gallery)
+[![HTML5](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://github.com/touma0dev/clock-full-time)
+[![Instagram]( https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 
 <br />
 <br />

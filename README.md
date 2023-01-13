@@ -1,3 +1,5 @@
+##Front end developer, looking to become a full stack dev, in web design
+
 ### Connect with me:
 
  
@@ -25,6 +27,6 @@
 <br />
 
 
-Desenvolvedor front end, em busca de se tornar um dev full stack, em design web .<br>
+ .<br>
 
 

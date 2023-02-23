@@ -6,8 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 
 ## Hello ! Im Lucas 🖐️
-![ GitHub stats]( https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=touma0dev&theme=dark&show_icons=true)<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&theme=dark&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)<br>
 ## <h1> About Me</h1>
 <p style='font-size:20px;'>Front end developer, looking to become a full stack dev, in web design.</p>
 

@@ -24,4 +24,5 @@
 
 
 ##   Full Stacks Projects:
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project]([![Generic badge](https://img.shields.io/badge/File-PDF-red.svg)](https://link_para_o_seu_arquivo.pdf)
+)

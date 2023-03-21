@@ -5,10 +5,12 @@
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-9a731b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 
-## Hello ! Im Lucas 🖐️
+## Olá ! Eu sou o Lucas 🖐️
 [![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&theme=dark&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)<br>
-## <h1> About Me</h1>
-<p style='font-size:20px;'>Front end developer, looking to become a full stack dev, in web design.</p>
+## <h1> Sobre mim
+</h1>
+<p style='font-size:20px;'>
+Desenvolvedor front-end, procurando se tornar um full stack dev, em web design.</p>
 
 
 ##   Languages and Tools:

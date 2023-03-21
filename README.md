@@ -21,9 +21,9 @@
 <br />
 <br />
 
-## Full Stack Projects
+## Full Stack Projects [![Projetos](https://img.shields.io/badge/Projetos-red.svg)](https://github.com/touma0dev/full-stack-projects)
 
-[![Projetos](https://img.shields.io/badge/Projetos-red.svg)](https://github.com/touma0dev/full-stack-projects)
+
 
 Aqui estão alguns dos meus projetos full-stack:
 

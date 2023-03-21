@@ -25,7 +25,7 @@
 
 ##   Full Stacks Projects:
 <h2>Simple Login Menu With :</h2>
-<div style="display:flex; justify-content:center;">
+<div >
  <li>PHP</li>
  <li>Javascript</li>
  <li>CSS3</li>

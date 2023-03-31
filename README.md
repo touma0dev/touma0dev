@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://twitter.com/_srtouma)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-9a731b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white(https://www.youtube.com/channel/UCJl66HCYI3ClojPwhPdI9VA)
 ## Olá ! Eu sou o Lucas 🖐️
 [![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&theme=dark&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)<br>
 ## <h1> Sobre mim

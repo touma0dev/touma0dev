@@ -40,6 +40,4 @@ Entusiasta em front-end, que estuda solo ironicamente contornando os padrões da
  - Por ultimo o sistema de teclado para digitar sem a interação com o input text e desabilitando-o quando selecionada o input deixando apenas o tema funcionando para impedir duplicatas de texto.
 ## Portabilidade 
 O projeto possui uma area em inglês e português aonde usamos pelo metodo ```navigator.language || navigator.userLanguage;``` para indentificar sua linguagem do navegador e redirecionar para o idioma correto na medida do possivel claro.
->Link Repositório/Site
- - [Repositório](https://github.com/touma0dev/function-javascript-/tree/main/Keyboard%20Virtual%20US%20%20-%20ABNT)
- - [Site](https://capable-manatee-397450.netlify.app/)
+>Link  [Repositório](https://github.com/touma0dev/function-javascript-/tree/main/Keyboard%20Virtual%20US%20%20-%20ABNT)/[Site](https://capable-manatee-397450.netlify.app/)

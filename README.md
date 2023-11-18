@@ -32,14 +32,13 @@ Entusiasta em front-end, que estuda solo autônomo . </p>
 `ESTÁ SEM SSL`
 >Link do projeto "[Avaliação Social](https://dhardware.rf.gd/formulario?i=1)"
 
-# Teclado Virtual
+# Teclado Virtual 60% ABNT-2 : Para Testar " Key Ghost "
 > Tecnologias :
 - Um Teclado Virtual feito com javascript e scss com decompilador para css3.
 > Funcionalidades :
   Foi desenvolvido a medida que olhava exemplos na web usado 3 arquivos em script dividos em :
- - Script de troca de temas.
- - Script para funcao com mousedown puchando o valor da datakey naquela div selecionada.
- - Por ultimo o sistema de teclado para digitar sem a interação com o input text e desabilitando-o quando selecionada o input deixando apenas o tema funcionando para impedir duplicatas de texto.
+ - Area de troca de temas.
+ - Funciona com script para funcao com mousedown puchando o valor da datakey naquela div selecionada.
 ## Portabilidade 
 O projeto possui uma area em inglês e português aonde usamos pelo metodo ```navigator.language || navigator.userLanguage;``` para indentificar sua linguagem do navegador e redirecionar para o idioma correto na medida do possivel claro.
 >Link  [Repositório](https://github.com/touma0dev/function-javascript-/tree/main/Keyboard%20Virtual%20US%20%20-%20ABNT)/[Site](https://capable-manatee-397450.netlify.app/)

@@ -28,9 +28,9 @@ Entusiasta em front-end, que estuda solo autônomo . </p>
 ## Projetos em Front-end Webdeveloper[![Projetos](https://img.shields.io/badge/Projetos-red.svg)](https://github.com/touma0dev/full-stack-projects)
 > Daqui para baixo a algums projetos que eu mesmo ja realizei!
 # Avaliação Social
-"Avaliação Social" é um projeto full-stack que visa ajudar a avaliar o impacto social de organizações e empresas. Ele foi desenvolvido usando uma combinação de tecnologias, incluindo Javascript, PHP,CSS3. O objetivo do projeto é fornecer uma ferramenta fácil de usar para avaliar o impacto social de diferentes organizações e empresas, permitindo que os usuários comparem e contrastem o impacto de diferentes entidades em diferentes áreas. O projeto está atualmente em desenvolvimento exemplar e pode ser acessado através do link abaixo:
-
->Link do projeto "[Avaliação Social](https://dhardware.rf.gd/formulario)"
+"Avaliação Social" é um projeto full-stack que realiza um teste simples . Ele foi desenvolvido usando uma combinação de tecnologias, incluindo Javascript, PHP,CSS3. O objetivo do projeto é fornecer uma ferramenta fácil de usar para avaliar os usuários em termos gerais é um avaliador de personalidade:
+`ESTÁ SEM SSL`
+>Link do projeto "[Avaliação Social](https://dhardware.rf.gd/formulario?i=1)"
 
 # Teclado Virtual
 > Tecnologias :
@@ -43,3 +43,8 @@ Entusiasta em front-end, que estuda solo autônomo . </p>
 ## Portabilidade 
 O projeto possui uma area em inglês e português aonde usamos pelo metodo ```navigator.language || navigator.userLanguage;``` para indentificar sua linguagem do navegador e redirecionar para o idioma correto na medida do possivel claro.
 >Link  [Repositório](https://github.com/touma0dev/function-javascript-/tree/main/Keyboard%20Virtual%20US%20%20-%20ABNT)/[Site](https://capable-manatee-397450.netlify.app/)
+
+## Projetos que me ajudam em alguma coisas :
+[Bloco de Notas](https://blocodenotasaqui.netlify.app/)<br>
+[CSS : GENERATOR](https://css-generator-by-touma.netlify.app/)<br>
+[Keyboard : tester](https://keyboard-virtual-abnt-2.netlify.app/)<br>

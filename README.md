@@ -35,8 +35,7 @@ Entusiasta em front-end, que estuda solo autônomo . </p>
 # Teclado Virtual 60% ABNT-2 : Para Testar " Key Ghost "
 > Tecnologias :
 - Um Teclado Virtual feito com javascript e scss com decompilador para css3.
-> Funcionalidades :
-  Foi desenvolvido a medida que olhava exemplos na web usado 3 arquivos em script dividos em :
+> Funcionalidades :<br>
  - Area de troca de temas.
  - Funciona com script para funcao com mousedown puchando o valor da datakey naquela div selecionada.
 ## Portabilidade 

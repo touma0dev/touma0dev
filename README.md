@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucasbrazilianman/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJl66HCYI3ClojPwhPdI9VA)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2&pause=1000&color=F70000&center=true&random=false&width=435&lines=++++++++++++++++++++Ol%C3%A1+!+Eu+sou+o+Lucas+%F0%9F%96%90%EF%B8%8F+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2&pause=1000&color=F70000&center=true&random=false&width=1200&height=155&lines=++++++++++++++++++++Ol%C3%A1+!+Eu+sou+o+Lucas+%F0%9F%96%90%EF%B8%8F+)](https://git.io/typing-svg)
 ##  Entusiasta em front-end, que estuda solo autônomo .
 ### <p><strong>Sou PCD - Síndrome de Asperger👨‍👦</strong></p> 
 ### <p> Mas mesmo pelas complexidadades a internet tem muito conteúdo por ai de facil acesso e quem se dedica encontra uma forma de aprender.</p>

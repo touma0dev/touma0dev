@@ -19,7 +19,7 @@
 <br />
 <br />
 
-## Projetos em Front-end Webdeveloper[![Projetos](https://img.shields.io/badge/Projetos-red.svg)](https://github.com/touma0dev/full-stack-projects)
+## Projetos em Front-end Webdeveloper
 > Daqui para baixo a algums projetos que eu mesmo ja realizei!
 # Avaliação Social
 "Avaliação Social" é um projeto full-stack que realiza um teste simples . Ele foi desenvolvido usando uma combinação de tecnologias, incluindo Javascript, PHP,CSS3. O objetivo do projeto é fornecer uma ferramenta fácil de usar para avaliar os usuários em termos gerais é um avaliador de personalidade:

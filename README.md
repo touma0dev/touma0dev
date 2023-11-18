@@ -11,7 +11,8 @@
 ## <h1> Sobre mim
 </h1>
 <p style='font-size:20px;'>
-Entusiasta em front-end, que estuda solo ironicamente contornando os padrões da sociadade e evitando fazer faculdade kkk "sem condições financeiras mesmo" . </p>
+Entusiasta em front-end, que estuda solo autônomo . </p>
+<p>Sou PCD - Síndrome de Asperger</p>
 <p> Mas mesmo pelas complexidadades a internet tem muito conteúdo por ai de facil acesso e quem se dedica encontra uma forma de aprender.</p>
 
 ## Linguagem e Ferramentas :

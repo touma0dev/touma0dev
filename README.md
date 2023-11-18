@@ -1,22 +1,16 @@
 ### Connect with me:
-
- 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]( https://twitter.com/_srtouma)
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-henrique-9a731b254/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev0touma_/?hl=en)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJl66HCYI3ClojPwhPdI9VA)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/556593298449)
 ## Olá ! Eu sou o Lucas 🖐️
+##  Entusiasta em front-end, que estuda solo autônomo .
+### <p><strong>Sou PCD - Síndrome de Asperger👨‍👦</strong></p> 
+### <p> Mas mesmo pelas complexidadades a internet tem muito conteúdo por ai de facil acesso e quem se dedica encontra uma forma de aprender.</p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&theme=dark&border_radius=4.9&locale=pt_BR)](https://git.io/streak-stats)<br>
-## <h1> Sobre mim
-</h1>
-<p style='font-size:20px;'>
-Entusiasta em front-end, que estuda solo autônomo . </p>
-<p>Sou PCD - Síndrome de Asperger</p>
-<p> Mas mesmo pelas complexidadades a internet tem muito conteúdo por ai de facil acesso e quem se dedica encontra uma forma de aprender.</p>
-
-## Linguagem e Ferramentas :
-
+## Linguagem e Ferramentas : ´Tem Links associados nos icones da uma olhada ´
 [![Sass]( https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/touma0dev/scss-userfuly-route/tree/main)
 [![HTML5](  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]( https://github.com/touma0dev/clock-full-time)
 [![JavasCript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]( https://github.com/touma0dev/function-javascript-)

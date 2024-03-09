@@ -5,8 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=F70000&center=true&random=false&width=1200&height=155&lines=Entusiasta+em+front-end%2C+que+estuda+solo+aut%C3%B4nomo+.;Nas+horas+vagas+sou+produtor+de+conte%C3%BAdo+)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=1&pause=1000&color=F70000&center=true&random=false&width=1200&height=155&lines=Sou+PCD+-+S%C3%ADndrome+de+Asperger%F0%9F%91%A8%E2%80%8D%F0%9F%91%A6)](https://git.io/typing-svg)
 ### <p style="display:none;"> Mas mesmo pelas complexidadades a internet tem muito conteúdo por ai de facil acesso e quem se dedica encontra uma forma de aprender.</p>
-# 🔥🔥 Meu Painel 🔥🔥
-[![GitHub Streak](https://streak-stats.demolab.com?user=touma0dev&theme=gruvbox-duo)](https://git.io/streak-stats)<br>
 ## Linguagem e Ferramentas : <code>Tem Links associados nos icones da uma olhada</code>
 [![Sass]( https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/touma0dev/scss-userfuly-route/tree/main)
 [![HTML5](  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]( https://github.com/touma0dev/clock-full-time)

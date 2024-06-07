@@ -12,7 +12,7 @@
 # Avaliação Social
 "Avaliação Social" é um projeto full-stack que realiza um teste simples . Ele foi desenvolvido usando uma combinação de tecnologias, incluindo Javascript, PHP,CSS3. O objetivo do projeto é fornecer uma ferramenta fácil de usar para avaliar os usuários em termos gerais é um avaliador de personalidade:
 `ESTÁ SEM SSL`
->Link do projeto "[Avaliação Social](https://dhardware. rf.gd/formulario?i=1)" X desativado no momemto 
+>Link do projeto  X desativado no momemto 
 
 # Teclado Virtual 60% ABNT-2 : Para Testar " Key Ghost "
 > Tecnologias :

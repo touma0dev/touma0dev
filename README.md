@@ -2,7 +2,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJl66HCYI3ClojPwhPdI9VA)
 
 
-## Linguagem e Ferramentas : <code>Tem Links associados nos icones da uma olhada</code>
+## Linguagem e Ferramentas :
 [![Sass]( https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://github.com/touma0dev/scss-userfuly-route/tree/main)
 [![HTML5](  https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]( https://github.com/touma0dev/clock-full-time)
 [![JavasCript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]( https://github.com/touma0dev/function-javascript-)
